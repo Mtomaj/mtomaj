@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on deepening my understanding of Data Analytics.
+- 🌱 I’m currently learning Python and intermediate to advanced SQL.
+- ⚡ Hobby of making RPG games.
